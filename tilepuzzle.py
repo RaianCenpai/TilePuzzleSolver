@@ -1,4 +1,3 @@
-# Homework Assignment 1 - tilepuzzle
 # Ryan Cen
 
 import copy
